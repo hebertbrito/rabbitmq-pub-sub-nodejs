@@ -1,0 +1,13 @@
+{
+    "compilerOptions": {
+        "esModuleInterop": true,
+        "module": "CommonJS",
+        "allowJs": true,
+        "outDir": "./dir",
+        "target": "ES2019",
+        "sourceMap": true,
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
